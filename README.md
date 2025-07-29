@@ -4,8 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](VERSION)
-[![Platform](https://img.shields.io/badge/platform-Web-lightgrey.svg)](https://bala1403.github.io/live-code-editor/)
-
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](bala1403.github.io/live-code-editor/)
 A powerful web-based code editor that enables developers to write and test HTML, CSS, and JavaScript code instantly. This interactive development environment provides real-time preview capabilities, making it perfect for rapid prototyping, learning, and experimentation.
 
 ---
@@ -18,6 +17,7 @@ A powerful web-based code editor that enables developers to write and test HTML,
 - **🔧 User-Friendly Interface** - Clean, intuitive design for enhanced productivity
 - **🚀 Zero Setup** - No installation required, runs directly in the browser
 - **💡 Educational Tool** - Perfect for learning and teaching web development
+- **🌐 Live Demo Available** - [View the website](bala1403.github.io/live-code-editor/)
 
 ---
 
